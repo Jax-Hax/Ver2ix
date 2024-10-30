@@ -1,3 +1,5 @@
+use ver2ix::run;
+
 fn main() {
-    println!("Hello, world!");
+    run();
 }
